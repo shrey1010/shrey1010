@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shreyshukla1010@gmail.com**
 <br><br>
-<img align="right" alt="coding" height ="420" width="470" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e471qgdf8i7v5z0emqlyaq7jdyslhhk676xemwy9iwr&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img align="right" alt="coding" height ="420" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e471qgdf8i7v5z0emqlyaq7jdyslhhk676xemwy9iwr&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 <h3 align="center">Profiles:</h3>
 <p align="left">
