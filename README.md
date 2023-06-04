@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> , I'm Shrey Shukla</h1>
-<h3 align="center">A passionate Django developer from India</h3>
+<h3 align="center">A passionate Django Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey1010&label=Profile%20views&color=0e75b6&style=flat" alt="shrey1010" /> </p>
 
@@ -10,15 +10,15 @@
 - 👯 I’m looking to collaborate **with others having same interest as of mine.**
 
 - 📫 How to reach me **shreyshukla1010@gmail.com**
-<br><br>
+<br>
 <img align="right" alt="coding" height ="420" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e471qgdf8i7v5z0emqlyaq7jdyslhhk676xemwy9iwr&ep=v1_gifs_search&rid=200.webp&ct=g">
-
 <h3 align="center">Profiles:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shrey-shukla-9a7473207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrey-shukla-9a7473207/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22002737/shrey-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22002737/shrey-shukla" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shreyshukla1010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyshukla1010/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shreyshukla1010/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreyshukla1010/practice" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/shrey-shukla-9a7473207/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="shrey-shukla" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/22002737/shrey-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22002737/shrey-shukla" height="30" width="30" /></a>&nbsp;
+<a href="https://www.leetcode.com/shreyshukla1010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyshukla1010/" height="30" width="40" /></a>&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/shreyshukla1010/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreyshukla1010/practice" height="40" width="40" /></a>&nbsp;
+<a href="https://www.codingninjas.com/codestudio/profile/43233162-cb76-4987-b0f9-d61ca099fa67" target="blank"><img align="center" src="https://asset.brandfetch.io/idQVGbrvGL/idFrWdCkB5.png?updated=1681732628908" alt="shrey-shukla/" height="30" width="60" /></a>&nbsp;
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -48,7 +48,7 @@
 
 > Want to get in touch?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-shukla-9a7473207/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-shukla-9a7473207/)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Shrey-Shukla-39) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/shreyshukla)
 
