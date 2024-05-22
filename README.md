@@ -40,7 +40,7 @@
 <br><br><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrey1010&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gruvbox" /> &emsp; <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey1010&layout=compact&show_icons=true&theme=gruvbox" />
 <br>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey1010&theme=radical" /> &emsp; <img height="180em" src="https://leetcard.jacoblin.cool/shreyshukla1010?theme=unicorn&font=Akshar" />
+<img height="180em" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey1010&theme=radical" /> &emsp; <img height="180em" width="400" src="https://leetcard.jacoblin.cool/shreyshukla1010?theme=unicorn&font=Akshar" />
 <br>
 
 <H3><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> Socials </H3>
@@ -53,5 +53,5 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/shreyshuklA"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shreyshuklA" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/shreyshuklA"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shreyshukla" /></a></p><br><br>
 
