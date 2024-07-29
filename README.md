@@ -14,11 +14,11 @@
 <img align="right" alt="coding" height ="420" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e471qgdf8i7v5z0emqlyaq7jdyslhhk676xemwy9iwr&ep=v1_gifs_search&rid=200.webp&ct=g">
 <h3 align="center">Profiles:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shrey-shukla-9a7473207/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="shrey-shukla" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shrey-shukla-9a7473207/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="shrey-shukla" height="35" width="40" /></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/22002737/shrey-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22002737/shrey-shukla" height="30" width="30" /></a>&nbsp;
-<a href="https://www.leetcode.com/shreyshukla1010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyshukla1010/" height="30" width="40" /></a>&nbsp;
+<a href="https://www.leetcode.com/shreyshukla1010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyshukla1010/" height="35" width="40" /></a>&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/shreyshukla1010/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreyshukla1010/practice" height="40" width="40" /></a>&nbsp;
-<a href="https://www.codingninjas.com/codestudio/profile/43233162-cb76-4987-b0f9-d61ca099fa67" target="blank"><img align="center" src="https://asset.brandfetch.io/idQVGbrvGL/idFrWdCkB5.png?updated=1681732628908" alt="shrey-shukla/" height="30" width="60" /></a>&nbsp;
+<a href="https://www.codingninjas.com/codestudio/profile/43233162-cb76-4987-b0f9-d61ca099fa67" target="blank"><img align="center" src="https://asset.brandfetch.io/idQVGbrvGL/idFrWdCkB5.png?updated=1681732628908" alt="shrey-shukla/" height="35" width="130" /></a>&nbsp;
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
