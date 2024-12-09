@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey1010&label=Profile%20views&color=0e75b6&style=flat" alt="shrey1010" /> </p>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Django & React**
 
 - 🔭 I’m intrested in  **DSA and Competitive Programming**
 
